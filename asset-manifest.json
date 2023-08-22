@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mypeeo/static/css/main.d932af58.css",
+    "main.js": "/mypeeo/static/js/main.2060173a.js",
+    "static/js/787.7c40431d.chunk.js": "/mypeeo/static/js/787.7c40431d.chunk.js",
+    "index.html": "/mypeeo/index.html",
+    "main.d932af58.css.map": "/mypeeo/static/css/main.d932af58.css.map",
+    "main.2060173a.js.map": "/mypeeo/static/js/main.2060173a.js.map",
+    "787.7c40431d.chunk.js.map": "/mypeeo/static/js/787.7c40431d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d932af58.css",
+    "static/js/main.2060173a.js"
+  ]
+}
